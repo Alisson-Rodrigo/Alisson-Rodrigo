@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Alisson-Rodrigo
-- 👀 I’m interesten aa...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Atualmente estou focado em adquirir conhecimentos em C/Python e manipulação com Arduíno
+- 🌱 Estudo na UFPI, estou no terceiro período e curso SISTEMAS DE INFORMAÇÃO
+- 💞️ Projetos acadêmicos: Estudo sobre arduino e desenvolvimento de um sistema de contagems
+- 📫 SHALOM!
 
-<!---
-Alisson-Rodrigo/Alisson-Rodrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
