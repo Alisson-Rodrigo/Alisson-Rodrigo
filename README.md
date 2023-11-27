@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Olá, eu sou @Alisson-Rodrigo<br>👀Atualmente estou focado em adquirir conhecimentos em C, Python. arduino<br>🌱Estudo na UFPI, estou no terceiro período e curso SISTEMAS DE INFORMAÇÃO<br>💞️Projetos acadêmicos: Estudo sobre arduino e desenvolvimento de um sistema de contagem<br>📫SHALOM!
+👋Olá, eu sou @Alisson-Rodrigo<br>👀Atualmente estou focado em adquirir conhecimentos em C, Python. arduino<br>🌱Estudo na UFPI, estou no quinto periodo e curso SISTEMAS DE INFORMAÇÃO<br>💞️Projetos acadêmicos: Estudo sobre arduino e desenvolvimento de um sistema de contagem<br>📫SHALOM!
 
 
 ## 🌐 Socials:
